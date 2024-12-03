@@ -8,6 +8,8 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
+
+variabilerandom = 123313242342
 public class Calculator implements ActionListener{
 
 	Boolean isOparetoclicked=false;
