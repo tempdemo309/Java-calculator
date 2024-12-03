@@ -11,6 +11,9 @@ import javax.swing.SwingConstants;
 
 variabilerandom = 123313242342
 sdfsdfvsdcsdcsdcscsd
+
+
+sdjkofnsdkofsokfjskof
 public class Calculator implements ActionListener{
 
 	Boolean isOparetoclicked=false;
