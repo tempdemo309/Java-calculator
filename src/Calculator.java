@@ -8,6 +8,8 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
+
+uselesscode = 3242424242
 public class Calculator implements ActionListener{
 
 	Boolean isOparetoclicked=false;
